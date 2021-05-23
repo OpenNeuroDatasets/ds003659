@@ -1,0 +1,12 @@
+{
+    "Name": "ScanTrain",
+    "BIDSVersion": "1.4.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+      "Arielle Tambini",
+      "Jacob Miller",
+      "Anastasia Kiyonaga",
+      "Mark D'Esposito"
+    ]
+  }
