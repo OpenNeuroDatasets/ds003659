@@ -1,7 +1,0 @@
-{
-    "duration": "Exposure duration of each stimulus.",
-    "onset": "When each stimulus is shown relative to the start of the scan (in seconds).",
-    "response_time": "Time of button press relative to trial onset.",
-    "stim_file": "name of stimulus shown.",
-    "trial_type": "Describes type of stimulus shown on each trial.         Seq denotes an image that is part of a sequence in the SRT.         NonSeq denotes an image that is NOT part of a sequence in the SRT.         The first number after Seq- is the Sequence identity (1-4) that the image belongs to.         The second # after Seq-#- is the Position of the image within each sequence (1-4).         N in the position space indicates that this is a new stimulus introduced in the second round of learning.         If N is not present, then the image was present in the first round of learning, and the position # corresponds to the old one from initial learning.         Tool and Animal stimuli are indicated, and which image was shown (a or b version).         -InSeq denotes when Sequence stimuli are shown in an intact fashion (stimuli 1-4 in order).         -OutSeq denotes when Sequence stimuli are NOT in their assigned temporal order (shown out of sequence). "
-}
