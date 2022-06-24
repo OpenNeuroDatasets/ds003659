@@ -1,0 +1,181 @@
+onset	duration	trial_type	response_time	stim_file
+8.4	1.95	Seq-4-1-OutSeq	0.8498032055795193	fractals_experiment/cyans/j6127.jpeg
+10.75	1.95	NonSeq-4	0.5175149962306023	fractals_experiment/greens/j2082.jpeg
+13.100000000000001	1.95	Seq-3-1-InSeq	0.5217649796977639	fractals_experiment/reds/j5085.jpeg
+15.450000000000001	1.95	Seq-3-2-InSeq	0.26137211360037327	fractals_experiment/greys/j8118.jpeg
+17.8	1.95	Seq-3-N3-InSeq	0.17629551235586405	fractals_secondround/yellows/i5002.jpeg
+20.15	1.95	Seq-3-N4-InSeq	0.32570117339491844	fractals_secondround/blues/i6012.jpeg
+22.5	1.95	Seq-3-3-InSeq	0.6385914832353592	fractals_experiment/pinks/j2137.jpeg
+24.85	1.95	Seq-3-4-ToolA-InSeq	0.247280390933156	tools/faucet/031a.jpg
+27.200000000000003	1.95	Seq-4-4-ToolA-OutSeq	0.6084635714069009	tools/megaphone/059a.jpg
+29.550000000000004	1.95	NonSeq-N8	0.6433578133583069	fractals_secondround/cyans/i2002.jpeg
+31.9	1.95	Seq-2-1-InSeq	0.6795500218868256	fractals_experiment/pinks/j7144.jpeg
+34.25	1.95	Seq-2-2-InSeq	0.3165796175599098	fractals_experiment/blues/j5130.jpeg
+36.6	1.95	Seq-2-N3-InSeq	0.17881575133651495	fractals_secondround/browns/i9002.jpeg
+38.95	1.95	Seq-2-N4-InSeq	0.1788005568087101	fractals_secondround/purples/i7004.jpeg
+41.3	1.95	Seq-2-3-InSeq	0.15561359748244286	fractals_experiment/greens/j6092.jpeg
+43.65	1.95	Seq-2-4-AnimalB-InSeq	0.2297612465918064	animals/crab/133b.jpg
+46.0	1.95	Seq-4-N3-OutSeq	0.6808587498962879	fractals_secondround/pinks/i5028.jpeg
+48.35	1.95	NonSeq-N10	0.6181606417521834	fractals_secondround/pinks/i9006.jpeg
+50.7	1.95	NonSeq-N7	0.6485435822978616	fractals_secondround/reds/i6022.jpeg
+53.05	1.95	NonSeq-5	1.2114193653687835	fractals_experiment/blues/j10051.jpeg
+55.4	1.95	Seq-4-3-OutSeq	0.5376570262014866	fractals_experiment/browns/j5075.jpeg
+57.75	1.95	NonSeq-AnimalA	1.3937766877934337	animals/frog/1.59_frog1.jpg
+60.1	1.95	Seq-1-1-InSeq	0.7987387413159013	fractals_experiment/yellows/j5118.jpeg
+62.45	1.95	Seq-1-2-InSeq	1.1305914297699928	fractals_experiment/cyans/j8009.jpeg
+64.80000000000001	1.95	Seq-1-N3-InSeq	0.6678604548797011	fractals_secondround/greys/i9036.jpeg
+67.15	1.95	Seq-1-N4-InSeq	0.6530369650572538	fractals_secondround/greens/i10030.jpeg
+69.5	1.95	Seq-1-3-InSeq	1.1404354209080338	fractals_experiment/reds/j8091.jpeg
+71.85000000000001	1.95	Seq-1-4-AnimalA-InSeq	0.6767172692343593	animals/fox/024a.jpg
+74.2	1.95	NonSeq-3		fractals_experiment/greys/j4029.jpeg
+76.55000000000001	1.95	NonSeq-6	0.6612353892996907	fractals_experiment/yellows/j4081.jpeg
+78.9	1.95	NonSeq-N9	0.6775628114119172	fractals_secondround/greys/i10011.jpeg
+81.25000000000001	1.95	Seq-4-N4-OutSeq	0.6684380983933806	fractals_secondround/reds/i7022.jpeg
+83.60000000000001	1.95	NonSeq-ToolB	1.3697765311226249	tools/hairdrier/094b.jpg
+85.95	1.95	NonSeq-2	0.6214394383132458	fractals_experiment/purples/j4125.jpeg
+88.30000000000001	1.95	NonSeq-1	1.2174210799857974	fractals_experiment/browns/j10032.jpeg
+90.65	1.95	Seq-4-2-OutSeq	1.4293849347159266	fractals_experiment/purples/j4110.jpeg
+93.00000000000001	1.95	NonSeq-4		fractals_experiment/greens/j2082.jpeg
+95.35000000000001	1.95	Seq-1-N3-OutSeq	0.15521916560828686	fractals_secondround/greys/i9036.jpeg
+97.7	1.95	Seq-4-1-InSeq	0.6174414772540331	fractals_experiment/cyans/j6127.jpeg
+100.05000000000001	1.95	Seq-4-2-InSeq	0.7039312720298767	fractals_experiment/purples/j4110.jpeg
+102.4	1.95	Seq-4-N3-InSeq	1.416238042525947	fractals_secondround/pinks/i5028.jpeg
+104.75000000000001	1.95	Seq-4-N4-InSeq	0.6203160732984543	fractals_secondround/reds/i7022.jpeg
+107.10000000000001	1.95	Seq-4-3-InSeq		fractals_experiment/browns/j5075.jpeg
+109.45	1.95	Seq-4-4-ToolA-InSeq	0.6001261798664927	tools/megaphone/059a.jpg
+111.80000000000001	1.95	NonSeq-N9	0.6721799410879612	fractals_secondround/greys/i10011.jpeg
+114.15	1.95	NonSeq-AnimalA	0.5012489408254623	animals/frog/1.59_frog1.jpg
+116.50000000000001	1.95	NonSeq-3	0.67640052549541	fractals_experiment/greys/j4029.jpeg
+118.85000000000001	1.95	Seq-1-2-OutSeq	0.6212259596213698	fractals_experiment/cyans/j8009.jpeg
+121.20000000000002	1.95	NonSeq-6	0.5936580896377563	fractals_experiment/yellows/j4081.jpeg
+123.55000000000001	1.95	NonSeq-5		fractals_experiment/blues/j10051.jpeg
+125.9	1.95	NonSeq-N7	1.2736287284642458	fractals_secondround/reds/i6022.jpeg
+128.25	1.95	Seq-1-3-OutSeq	0.6139466855674982	fractals_experiment/reds/j8091.jpeg
+130.6	1.95	Seq-3-1-InSeq	0.6828157100826502	fractals_experiment/reds/j5085.jpeg
+132.95000000000002	1.95	Seq-3-2-InSeq	0.9010873213410378	fractals_experiment/greys/j8118.jpeg
+135.3	1.95	Seq-3-N3-InSeq	0.6671350076794624	fractals_secondround/yellows/i5002.jpeg
+137.65	1.95	Seq-3-N4-InSeq	1.87636046577245	fractals_secondround/blues/i6012.jpeg
+140.0	1.95	Seq-3-3-InSeq	0.40767161175608635	fractals_experiment/pinks/j2137.jpeg
+142.35000000000002	1.95	Seq-3-4-ToolB-InSeq	0.2576416786760092	tools/faucet/031b.jpg
+144.70000000000002	1.95	Seq-1-1-OutSeq	0.6425044992938638	fractals_experiment/yellows/j5118.jpeg
+147.05	1.95	NonSeq-1	0.5491916704922915	fractals_experiment/browns/j10032.jpeg
+149.4	1.95	NonSeq-N8		fractals_secondround/cyans/i2002.jpeg
+151.75	1.95	NonSeq-N10	0.5407976377755404	fractals_secondround/pinks/i9006.jpeg
+154.10000000000002	1.95	Seq-1-4-AnimalA-OutSeq	0.46674070693552494	animals/fox/024a.jpg
+156.45000000000002	1.95	NonSeq-2	0.5668193576857448	fractals_experiment/purples/j4125.jpeg
+158.8	1.95	NonSeq-ToolB	0.6752553945407271	tools/hairdrier/094b.jpg
+161.15	1.95	Seq-2-1-InSeq	0.7501985002309084	fractals_experiment/pinks/j7144.jpeg
+163.5	1.95	Seq-2-2-InSeq	0.35276726074516773	fractals_experiment/blues/j5130.jpeg
+165.85000000000002	1.95	Seq-2-N3-InSeq	0.21584636252373457	fractals_secondround/browns/i9002.jpeg
+168.20000000000002	1.95	Seq-2-N4-InSeq	0.2449961369857192	fractals_secondround/purples/i7004.jpeg
+170.55	1.95	Seq-2-3-InSeq	1.329659191891551	fractals_experiment/greens/j6092.jpeg
+172.9	1.95	Seq-2-4-AnimalA-InSeq	0.2468906482681632	animals/crab/1.28_crab2.jpg
+175.25	1.95	Seq-1-N4-OutSeq	1.298634015955031	fractals_secondround/greens/i10030.jpeg
+177.60000000000002	1.95	NonSeq-3	0.7408373979851604	fractals_experiment/greys/j4029.jpeg
+179.95000000000002	1.95	Seq-1-1-InSeq	0.5447407318279147	fractals_experiment/yellows/j5118.jpeg
+182.3	1.95	Seq-1-2-InSeq	0.5018230089917779	fractals_experiment/cyans/j8009.jpeg
+184.65	1.95	Seq-1-N3-InSeq	0.11807338334619999	fractals_secondround/greys/i9036.jpeg
+187.0	1.95	Seq-1-N4-InSeq	0.2174303876236081	fractals_secondround/greens/i10030.jpeg
+189.35000000000002	1.95	Seq-1-3-InSeq		fractals_experiment/reds/j8091.jpeg
+191.70000000000002	1.95	Seq-1-4-AnimalB-InSeq		animals/fox/024b.jpg
+194.05	1.95	NonSeq-AnimalB		animals/frog/117a.jpg
+196.4	1.95	Seq-2-2-OutSeq		fractals_experiment/blues/j5130.jpeg
+198.75	1.95	Seq-3-1-InSeq	1.4395146537572145	fractals_experiment/reds/j5085.jpeg
+201.10000000000002	1.95	Seq-3-2-InSeq	0.5869689686223865	fractals_experiment/greys/j8118.jpeg
+203.45000000000002	1.95	Seq-3-N3-InSeq	0.7333288658410311	fractals_secondround/yellows/i5002.jpeg
+205.8	1.95	Seq-3-N4-InSeq	1.3999866228550673	fractals_secondround/blues/i6012.jpeg
+208.15	1.95	Seq-3-3-InSeq	0.6260181684046984	fractals_experiment/pinks/j2137.jpeg
+210.5	1.95	Seq-3-4-ToolA-InSeq	0.5190354129299521	tools/faucet/031a.jpg
+212.85000000000002	1.95	Seq-2-N3-OutSeq		fractals_secondround/browns/i9002.jpeg
+215.20000000000002	1.95	NonSeq-N7		fractals_secondround/reds/i6022.jpeg
+217.55	1.95	Seq-4-1-InSeq		fractals_experiment/cyans/j6127.jpeg
+219.9	1.95	Seq-4-2-InSeq	1.167288619093597	fractals_experiment/purples/j4110.jpeg
+222.25	1.95	Seq-4-N3-InSeq	0.6423094095662236	fractals_secondround/pinks/i5028.jpeg
+224.60000000000002	1.95	Seq-4-N4-InSeq	0.5710865156725049	fractals_secondround/reds/i7022.jpeg
+226.95000000000002	1.95	Seq-4-3-InSeq	0.0023438744246959686	fractals_experiment/browns/j5075.jpeg
+229.3	1.95	Seq-4-4-ToolA-InSeq	1.3638388086110353	tools/megaphone/059a.jpg
+231.65	1.95	Seq-2-4-AnimalA-OutSeq	1.312610032968223	animals/crab/1.28_crab2.jpg
+234.00000000000003	1.95	NonSeq-4		fractals_experiment/greens/j2082.jpeg
+236.35000000000002	1.95	NonSeq-N8		fractals_secondround/cyans/i2002.jpeg
+238.70000000000002	1.95	NonSeq-2	0.5851580984890461	fractals_experiment/purples/j4125.jpeg
+241.05	1.95	Seq-2-N4-OutSeq	1.5837944485247135	fractals_secondround/purples/i7004.jpeg
+243.4	1.95	NonSeq-N10	1.5440508611500263	fractals_secondround/pinks/i9006.jpeg
+245.75000000000003	1.95	NonSeq-5		fractals_experiment/blues/j10051.jpeg
+248.10000000000002	1.95	NonSeq-1	0.5229481048882008	fractals_experiment/browns/j10032.jpeg
+250.45000000000002	1.95	Seq-2-1-OutSeq	0.750322069041431	fractals_experiment/pinks/j7144.jpeg
+252.8	1.95	NonSeq-ToolA	0.5547633795067668	tools/hairdrier/072a.jpg
+255.15	1.95	NonSeq-N9	0.6046760631725192	fractals_secondround/greys/i10011.jpeg
+257.5	1.95	NonSeq-6	1.4265103619545698	fractals_experiment/yellows/j4081.jpeg
+259.85	1.95	Seq-2-3-OutSeq	0.9078264255076647	fractals_experiment/greens/j6092.jpeg
+262.2	1.95	Seq-3-1-OutSeq		fractals_experiment/reds/j5085.jpeg
+264.55	1.95	NonSeq-N10	1.7642660047858953	fractals_secondround/pinks/i9006.jpeg
+266.9	1.95	NonSeq-2	0.15388979576528072	fractals_experiment/purples/j4125.jpeg
+269.25	1.95	NonSeq-5	0.5047117657959461	fractals_experiment/blues/j10051.jpeg
+271.59999999999997	1.95	NonSeq-N8	0.6268336623907089	fractals_secondround/cyans/i2002.jpeg
+273.95	1.95	Seq-3-4-ToolA-OutSeq	0.546944591216743	tools/faucet/031a.jpg
+276.3	1.95	NonSeq-4	0.5646595098078251	fractals_experiment/greens/j2082.jpeg
+278.65	1.95	NonSeq-ToolB	1.0089610889554024	tools/hairdrier/094b.jpg
+281.0	1.95	Seq-4-1-InSeq	0.5752740995958447	fractals_experiment/cyans/j6127.jpeg
+283.34999999999997	1.95	Seq-4-2-InSeq	0.5357098961248994	fractals_experiment/purples/j4110.jpeg
+285.7	1.95	Seq-4-N3-InSeq	0.5880325771868229	fractals_secondround/pinks/i5028.jpeg
+288.05	1.95	Seq-4-N4-InSeq	1.0751500176265836	fractals_secondround/reds/i7022.jpeg
+290.4	1.95	Seq-4-3-InSeq	1.5353961270302534	fractals_experiment/browns/j5075.jpeg
+292.75	1.95	Seq-4-4-ToolB-InSeq	0.8834422845393419	tools/megaphone/059b.jpg
+295.09999999999997	1.95	NonSeq-3		fractals_experiment/greys/j4029.jpeg
+297.45	1.95	Seq-3-N3-OutSeq	0.5984281059354544	fractals_secondround/yellows/i5002.jpeg
+299.8	1.95	NonSeq-AnimalB	0.53171756118536	animals/frog/117a.jpg
+302.15	1.95	NonSeq-6		fractals_experiment/yellows/j4081.jpeg
+304.5	1.95	Seq-2-1-InSeq	1.1430533975362778	fractals_experiment/pinks/j7144.jpeg
+306.84999999999997	1.95	Seq-2-2-InSeq	0.6526286797598004	fractals_experiment/blues/j5130.jpeg
+309.2	1.95	Seq-2-N3-InSeq	0.26206143386662006	fractals_secondround/browns/i9002.jpeg
+311.55	1.95	Seq-2-N4-InSeq		fractals_secondround/purples/i7004.jpeg
+313.9	1.95	Seq-2-3-InSeq	1.1568455072119832	fractals_experiment/greens/j6092.jpeg
+316.25	1.95	Seq-2-4-AnimalB-InSeq		animals/crab/133b.jpg
+318.59999999999997	1.95	Seq-3-2-OutSeq	0.5251222141087055	fractals_experiment/greys/j8118.jpeg
+320.95	1.95	Seq-1-1-InSeq	0.5908664418384433	fractals_experiment/yellows/j5118.jpeg
+323.3	1.95	Seq-1-2-InSeq	0.6690102322027087	fractals_experiment/cyans/j8009.jpeg
+325.65	1.95	Seq-1-N3-InSeq	0.7217258531600237	fractals_secondround/greys/i9036.jpeg
+328.0	1.95	Seq-1-N4-InSeq	1.4708977807313204	fractals_secondround/greens/i10030.jpeg
+330.34999999999997	1.95	Seq-1-3-InSeq	1.6873069452121854	fractals_experiment/reds/j8091.jpeg
+332.7	1.95	Seq-1-4-AnimalB-InSeq	0.7284098509699106	animals/fox/024b.jpg
+335.05	1.95	Seq-3-N4-OutSeq		fractals_secondround/blues/i6012.jpeg
+337.4	1.95	NonSeq-N7		fractals_secondround/reds/i6022.jpeg
+339.75	1.95	NonSeq-1	0.8473780965432525	fractals_experiment/browns/j10032.jpeg
+342.09999999999997	1.95	NonSeq-N9		fractals_secondround/greys/i10011.jpeg
+344.45	1.95	Seq-3-3-OutSeq	0.6654722075909376	fractals_experiment/pinks/j2137.jpeg
+346.8	1.95	NonSeq-AnimalA		animals/frog/1.59_frog1.jpg
+349.15	1.95	NonSeq-N7	1.6930536171421409	fractals_secondround/reds/i6022.jpeg
+351.5	1.95	NonSeq-N10	0.703674916177988	fractals_secondround/pinks/i9006.jpeg
+353.84999999999997	1.95	NonSeq-1		fractals_experiment/browns/j10032.jpeg
+356.2	1.95	NonSeq-2	0.7142265429720283	fractals_experiment/purples/j4125.jpeg
+358.55	1.95	Seq-2-4-AnimalB-OutSeq		animals/crab/133b.jpg
+360.9	1.95	NonSeq-4		fractals_experiment/greens/j2082.jpeg
+363.25	1.95	NonSeq-ToolA		tools/hairdrier/072a.jpg
+365.59999999999997	1.95	NonSeq-6		fractals_experiment/yellows/j4081.jpeg
+367.95	1.95	Seq-2-3-OutSeq		fractals_experiment/greens/j6092.jpeg
+370.3	1.95	Seq-3-1-InSeq		fractals_experiment/reds/j5085.jpeg
+372.65	1.95	Seq-3-2-InSeq		fractals_experiment/greys/j8118.jpeg
+375.0	1.95	Seq-3-N3-InSeq	0.9309430290013552	fractals_secondround/yellows/i5002.jpeg
+377.34999999999997	1.95	Seq-3-N4-InSeq		fractals_secondround/blues/i6012.jpeg
+379.7	1.95	Seq-3-3-InSeq		fractals_experiment/pinks/j2137.jpeg
+382.05	1.95	Seq-3-4-ToolB-InSeq		tools/faucet/031b.jpg
+384.4	1.95	Seq-2-1-OutSeq		fractals_experiment/pinks/j7144.jpeg
+386.75	1.95	NonSeq-N9		fractals_secondround/greys/i10011.jpeg
+389.09999999999997	1.95	Seq-1-1-InSeq		fractals_experiment/yellows/j5118.jpeg
+391.45	1.95	Seq-1-2-InSeq		fractals_experiment/cyans/j8009.jpeg
+393.8	1.95	Seq-1-N3-InSeq	0.5653419643640518	fractals_secondround/greys/i9036.jpeg
+396.15	1.95	Seq-1-N4-InSeq	0.0023425016552209854	fractals_secondround/greens/i10030.jpeg
+398.5	1.95	Seq-1-3-InSeq	0.19060188625007868	fractals_experiment/reds/j8091.jpeg
+400.84999999999997	1.95	Seq-1-4-AnimalA-InSeq	0.21333556529134512	animals/fox/024a.jpg
+403.2	1.95	Seq-2-N4-OutSeq	0.8741905651986599	fractals_secondround/purples/i7004.jpeg
+405.55	1.95	Seq-4-1-InSeq	1.1637339815497398	fractals_experiment/cyans/j6127.jpeg
+407.9	1.95	Seq-4-2-InSeq	1.4921928076073527	fractals_experiment/purples/j4110.jpeg
+410.25	1.95	Seq-4-N3-InSeq	0.5898307682946324	fractals_secondround/pinks/i5028.jpeg
+412.59999999999997	1.95	Seq-4-N4-InSeq	0.25705523509532213	fractals_secondround/reds/i7022.jpeg
+414.95	1.95	Seq-4-3-InSeq		fractals_experiment/browns/j5075.jpeg
+417.3	1.95	Seq-4-4-ToolA-InSeq	0.6149913594126701	tools/megaphone/059a.jpg
+419.65	1.95	Seq-2-N3-OutSeq	0.7460737591609359	fractals_secondround/browns/i9002.jpeg
+422.0	1.95	NonSeq-5	0.5530200181528926	fractals_experiment/blues/j10051.jpeg
+424.34999999999997	1.95	NonSeq-3	0.788841518573463	fractals_experiment/greys/j4029.jpeg
+426.7	1.95	NonSeq-N8		fractals_secondround/cyans/i2002.jpeg
+429.05	1.95	Seq-2-2-OutSeq		fractals_experiment/blues/j5130.jpeg
