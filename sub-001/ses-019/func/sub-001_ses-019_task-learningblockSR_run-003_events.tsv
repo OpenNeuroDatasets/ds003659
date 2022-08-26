@@ -33,7 +33,7 @@ onset	duration	trial_type	response_time	stim_file
 81.2500	1.9500	Seq-3-N4-InSeq	0.5094	fractals_secondround/pinks/i6000.jpeg
 83.6000	1.9500	Seq-3-3-InSeq	0.4040	fractals_experiment/browns/j9155.jpeg
 85.9500	1.9500	Seq-3-4-ToolA-InSeq	0.3880	tools/colander/097a.jpg
-88.3000	1.9500	Seq-4-2-OutSeq		fractals_experiment/cyans/j5086.jpeg
+88.3000	1.9500	Seq-4-2-OutSeq   	fractals_experiment/cyans/j5086.jpeg
 90.6500	1.9500	NonSeq-AnimalB	0.1551	animals/horse/horse.jpg
 93.0000	1.9500	NonSeq-N10	0.6102	fractals_secondround/greens/i10001.jpeg
 95.3500	1.9500	NonSeq-ToolA	0.8182	tools/eggbeater/187a.jpg
