@@ -4,9 +4,10 @@
     "DatasetType": "raw",
     "License": "CC0",
     "Authors": [
-      "Arielle Tambini",
-      "Jacob Miller",
-      "Anastasia Kiyonaga",
-      "Mark D'Esposito"
-    ]
-  }
+        "Arielle Tambini",
+        "Jacob Miller",
+        "Anastasia Kiyonaga",
+        "Mark D'Esposito"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds003659.v1.0.0"
+}
