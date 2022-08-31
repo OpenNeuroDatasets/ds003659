@@ -1,25 +1,25 @@
-	onset	duration	trial_type	response_time	stim_file
-0	12.81277	12	trained_inseq	1.819	fractals_experiment/yellows/j1132.jpeg
-1	34.57849	12	trained_inseq	1.622	fractals_experiment/blues/j5081.jpeg
-2	51.14412	8	trained_nonseq	1.203	fractals_experiment/reds/j3112.jpeg
-3	64.01008	12	trained_inseq	1.637	fractals_experiment/reds/j10153.jpeg
-4	84.17553000000001	4	novel	0.985	fractals_experiment/blues/j8103.jpeg
-5	96.84196999999999	4	trained_inseq	0.755	fractals_experiment/cyans/j5086.jpeg
-6	111.8075	4	trained_inseq	1.27	fractals_experiment/pinks/j7028.jpeg
-7	120.6735	12	novel	0.824	fractals_experiment/browns/j8150.jpeg
-8	137.6395	8	novel	0.836	fractals_experiment/purples/j2139.jpeg
-9	150.0056	8	trained_inseq	2.174	fractals_experiment/browns/j9058.jpeg
-10	163.0714	12	trained_nonseq	1.017	fractals_experiment/purples/j1033.jpeg
-11	181.1369	12	trained_nonseq	1.69	fractals_experiment/cyans/j4053.jpeg
-12	197.3029	8	trained_inseq	1.303	fractals_experiment/yellows/j5099.jpeg
-13	213.1685	4	novel	0.967	fractals_experiment/purples/j8124.jpeg
-14	224.0345	8	novel	2.103	fractals_experiment/browns/j2123.jpeg
-15	236.6005	8	trained_inseq	1.225	fractals_experiment/pinks/j2031.jpeg
-16	248.7665	8	trained_nonseq	1.737	fractals_experiment/greens/j6137.jpeg
-17	268.8325	4	trained_nonseq	1.933	fractals_experiment/blues/j7053.jpeg
-18	279.0985	4	trained_nonseq	1.106	fractals_experiment/greys/j7127.jpeg
-19	292.5645	12	trained_inseq	1.65	fractals_experiment/greys/j5125.jpeg
-20	309.3301	4	trained_inseq	1.715	fractals_experiment/purples/j5024.jpeg
-21	324.3957	12	novel	1.937	fractals_experiment/browns/j1019.jpeg
-22	340.662	8	trained_inseq	1.781	fractals_experiment/browns/j9155.jpeg
-23	359.128	4	trained_inseq	1.407	fractals_experiment/greens/j4115.jpeg
+onset	duration	trial_type	response_time	stim_file
+12.81277	12	trained_inseq	1.819	fractals_experiment/yellows/j1132.jpeg
+34.57849	12	trained_inseq	1.622	fractals_experiment/blues/j5081.jpeg
+51.14412	8	trained_nonseq	1.203	fractals_experiment/reds/j3112.jpeg
+64.01008	12	trained_inseq	1.637	fractals_experiment/reds/j10153.jpeg
+84.17553000000001	4	novel	0.985	fractals_experiment/blues/j8103.jpeg
+96.84196999999999	4	trained_inseq	0.755	fractals_experiment/cyans/j5086.jpeg
+111.8075	4	trained_inseq	1.27	fractals_experiment/pinks/j7028.jpeg
+120.6735	12	novel	0.824	fractals_experiment/browns/j8150.jpeg
+137.6395	8	novel	0.836	fractals_experiment/purples/j2139.jpeg
+150.0056	8	trained_inseq	2.174	fractals_experiment/browns/j9058.jpeg
+163.0714	12	trained_nonseq	1.017	fractals_experiment/purples/j1033.jpeg
+181.1369	12	trained_nonseq	1.69	fractals_experiment/cyans/j4053.jpeg
+197.3029	8	trained_inseq	1.303	fractals_experiment/yellows/j5099.jpeg
+213.1685	4	novel	0.967	fractals_experiment/purples/j8124.jpeg
+224.0345	8	novel	2.103	fractals_experiment/browns/j2123.jpeg
+236.6005	8	trained_inseq	1.225	fractals_experiment/pinks/j2031.jpeg
+248.7665	8	trained_nonseq	1.737	fractals_experiment/greens/j6137.jpeg
+268.8325	4	trained_nonseq	1.933	fractals_experiment/blues/j7053.jpeg
+279.0985	4	trained_nonseq	1.106	fractals_experiment/greys/j7127.jpeg
+292.5645	12	trained_inseq	1.65	fractals_experiment/greys/j5125.jpeg
+309.3301	4	trained_inseq	1.715	fractals_experiment/purples/j5024.jpeg
+324.3957	12	novel	1.937	fractals_experiment/browns/j1019.jpeg
+340.662	8	trained_inseq	1.781	fractals_experiment/browns/j9155.jpeg
+359.128	4	trained_inseq	1.407	fractals_experiment/greens/j4115.jpeg
