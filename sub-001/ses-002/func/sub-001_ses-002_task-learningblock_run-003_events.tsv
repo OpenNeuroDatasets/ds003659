@@ -1,17 +1,17 @@
 onset	duration	trial_type	response_time	stim_file
 8.4000	1.9500	Seq-3-1-IS	0.5379	fractals_experiment/reds/j10153.jpeg
 10.7500	1.9500	Seq-3-2-IS	0.6258	fractals_experiment/blues/j5081.jpeg
-13.1000	1.9500	Seq-3-3-IS	0.5860	fractals_experiment/browns/j9155.jpeg
+13.1000	1.9500	Seq-3-3-IS	0.586	fractals_experiment/browns/j9155.jpeg
 15.4500	1.9500	Seq-3-4-ToA-IS	0.4961	tools/colander/097a.jpg
 17.8000	1.9500	Seq-2-4-AnB-OS	0.6503	animals/giraffe/giraffe.jpg
-20.1500	1.9500	Seq-1-1-IS	0.7170	fractals_experiment/browns/j9058.jpeg
-22.5000	1.9500	Seq-1-2-IS	0.6290	fractals_experiment/yellows/j5099.jpeg
+20.1500	1.9500	Seq-1-1-IS	0.717	fractals_experiment/browns/j9058.jpeg
+22.5000	1.9500	Seq-1-2-IS	0.629	fractals_experiment/yellows/j5099.jpeg
 24.8500	1.9500	Seq-1-3-IS	0.5344	fractals_experiment/pinks/j2031.jpeg
 27.2000	1.9500	Seq-1-4-AnB-IS	0.5749	animals/tiger/whitetiger.jpg
-29.5500	1.9500	NonSeq-2	0.4690	fractals_experiment/reds/j3112.jpeg
-31.9000	1.9500	NonSeq-ToA	0.8760	tools/eggbeater/187a.jpg
+29.5500	1.9500	NonSeq-2	0.469	fractals_experiment/reds/j3112.jpeg
+31.9000	1.9500	NonSeq-ToA	0.876	tools/eggbeater/187a.jpg
 34.2500	1.9500	Seq-2-1-OS	0.7675	fractals_experiment/pinks/j7028.jpeg
-36.6000	1.9500	Seq-4-1-IS	0.8400	fractals_experiment/purples/j5024.jpeg
+36.6000	1.9500	Seq-4-1-IS	0.84	fractals_experiment/purples/j5024.jpeg
 38.9500	1.9500	Seq-4-2-IS	0.6792	fractals_experiment/cyans/j5086.jpeg
 41.3000	1.9500	Seq-4-3-IS	0.7987	fractals_experiment/greys/j5125.jpeg
 43.6500	1.9500	Seq-4-4-ToA-IS	0.5984	tools/wateringcan/042a.jpg
@@ -25,9 +25,9 @@ onset	duration	trial_type	response_time	stim_file
 62.4500	1.9500	NonSeq-1	0.6431	fractals_experiment/cyans/j4053.jpeg
 64.8000	1.9500	Seq-3-1-OS	0.5209	fractals_experiment/reds/j10153.jpeg
 67.1500	1.9500	Seq-4-1-IS	1.4523	fractals_experiment/purples/j5024.jpeg
-69.5000	1.9500	Seq-4-2-IS	1.4310	fractals_experiment/cyans/j5086.jpeg
+69.5000	1.9500	Seq-4-2-IS	1.431	fractals_experiment/cyans/j5086.jpeg
 71.8500	1.9500	Seq-4-3-IS	0.6332	fractals_experiment/greys/j5125.jpeg
-74.2000	1.9500	Seq-4-4-ToA-IS	0.6060	tools/wateringcan/042a.jpg
+74.2000	1.9500	Seq-4-4-ToA-IS	0.606	tools/wateringcan/042a.jpg
 76.5500	1.9500	Seq-2-1-IS	0.5895	fractals_experiment/pinks/j7028.jpeg
 78.9000	1.9500	Seq-2-2-IS	0.8077	fractals_experiment/greens/j4115.jpeg
 81.2500	1.9500	Seq-2-3-IS	0.6435	fractals_experiment/yellows/j1132.jpeg
@@ -49,7 +49,7 @@ onset	duration	trial_type	response_time	stim_file
 118.8500	1.9500	Seq-3-4-ToA-OS	0.7938	tools/colander/097a.jpg
 121.2000	1.9500	Seq-1-1-IS	0.5932	fractals_experiment/browns/j9058.jpeg
 123.5500	1.9500	Seq-1-2-IS	1.3718	fractals_experiment/yellows/j5099.jpeg
-125.9000	1.9500	Seq-1-3-IS	0.5270	fractals_experiment/pinks/j2031.jpeg
+125.9000	1.9500	Seq-1-3-IS	0.527	fractals_experiment/pinks/j2031.jpeg
 128.2500	1.9500	Seq-1-4-AnA-IS	0.5801	animals/tiger/0.89_cat-tigerwhite.jpg
 130.6000	1.9500	Seq-3-2-OS	0.9023	fractals_experiment/blues/j5081.jpeg
 132.9500	1.9500	NonSeq-2	0.5773	fractals_experiment/reds/j3112.jpeg
@@ -59,13 +59,13 @@ onset	duration	trial_type	response_time	stim_file
 142.3500	1.9500	Seq-4-4-ToB-IS	0.7694	tools/wateringcan/042b.jpg
 144.7000	1.9500	Seq-3-4-ToB-OS	0.7896	tools/colander/097b.jpg
 147.0500	1.9500	NonSeq-5	0.6515	fractals_experiment/purples/j1033.jpeg
-149.4000	1.9500	NonSeq-1	1.3860	fractals_experiment/cyans/j4053.jpeg
+149.4000	1.9500	NonSeq-1	1.386	fractals_experiment/cyans/j4053.jpeg
 151.7500	1.9500	Seq-2-1-IS	0.6763	fractals_experiment/pinks/j7028.jpeg
 154.1000	1.9500	Seq-2-2-IS	0.5541	fractals_experiment/greens/j4115.jpeg
-156.4500	1.9500	Seq-2-3-IS	0.8430	fractals_experiment/yellows/j1132.jpeg
+156.4500	1.9500	Seq-2-3-IS	0.843	fractals_experiment/yellows/j1132.jpeg
 158.8000	1.9500	Seq-2-4-AnB-IS	0.5838	animals/giraffe/giraffe.jpg
 161.1500	1.9500	NonSeq-AnA	0.6633	animals/horse/horse copy.jpg
-163.5000	1.9500	NonSeq-3	0.7150	fractals_experiment/greens/j6137.jpeg
+163.5000	1.9500	NonSeq-3	0.715	fractals_experiment/greens/j6137.jpeg
 165.8500	1.9500	Seq-3-1-OS	1.0787	fractals_experiment/reds/j10153.jpeg
 168.2000	1.9500	NonSeq-6	0.5632	fractals_experiment/greys/j7127.jpeg
 170.5500	1.9500	NonSeq-ToA	1.4161	tools/eggbeater/187a.jpg
@@ -75,7 +75,7 @@ onset	duration	trial_type	response_time	stim_file
 179.9500	1.9500	Seq-2-2-IS	0.8174	fractals_experiment/greens/j4115.jpeg
 182.3000	1.9500	Seq-2-3-IS	0.6025	fractals_experiment/yellows/j1132.jpeg
 184.6500	1.9500	Seq-2-4-AnA-IS	0.9938	animals/giraffe/1.03_giraffe.jpg
-187.0000	1.9500	Seq-1-1-OS	0.6460	fractals_experiment/browns/j9058.jpeg
+187.0000	1.9500	Seq-1-1-OS	0.646	fractals_experiment/browns/j9058.jpeg
 189.3500	1.9500	Seq-4-1-IS	0.8236	fractals_experiment/purples/j5024.jpeg
 191.7000	1.9500	Seq-4-2-IS	0.6163	fractals_experiment/cyans/j5086.jpeg
 194.0500	1.9500	Seq-4-3-IS	0.6925	fractals_experiment/greys/j5125.jpeg
@@ -89,17 +89,17 @@ onset	duration	trial_type	response_time	stim_file
 212.8500	1.9500	Seq-3-1-IS	1.0171	fractals_experiment/reds/j10153.jpeg
 215.2000	1.9500	Seq-3-2-IS	0.7859	fractals_experiment/blues/j5081.jpeg
 217.5500	1.9500	Seq-3-3-IS	0.5818	fractals_experiment/browns/j9155.jpeg
-219.9000	1.9500	Seq-3-4-ToB-IS		tools/colander/097b.jpg
+219.9000	1.9500	Seq-3-4-ToB-IS	n/a	tools/colander/097b.jpg
 222.2500	1.9500	Seq-1-3-OS	0.6035	fractals_experiment/pinks/j2031.jpeg
 224.6000	1.9500	NonSeq-6	0.5695	fractals_experiment/greys/j7127.jpeg
 226.9500	1.9500	NonSeq-1	1.0232	fractals_experiment/cyans/j4053.jpeg
-229.3000	1.9500	NonSeq-AnB		animals/horse/horse.jpg
+229.3000	1.9500	NonSeq-AnB	n/a	animals/horse/horse.jpg
 231.6500	1.9500	Seq-1-4-AnA-OS	0.6635	animals/tiger/0.89_cat-tigerwhite.jpg
 234.0000	1.9500	Seq-4-1-IS	1.0688	fractals_experiment/purples/j5024.jpeg
 236.3500	1.9500	Seq-4-2-IS	0.5276	fractals_experiment/cyans/j5086.jpeg
-238.7000	1.9500	Seq-4-3-IS	0.7800	fractals_experiment/greys/j5125.jpeg
+238.7000	1.9500	Seq-4-3-IS	0.78	fractals_experiment/greys/j5125.jpeg
 241.0500	1.9500	Seq-4-4-ToA-IS	1.8243	tools/wateringcan/042a.jpg
-243.4000	1.9500	Seq-3-1-IS		fractals_experiment/reds/j10153.jpeg
+243.4000	1.9500	Seq-3-1-IS	n/a	fractals_experiment/reds/j10153.jpeg
 245.7500	1.9500	Seq-3-2-IS	0.7248	fractals_experiment/blues/j5081.jpeg
 248.1000	1.9500	Seq-3-3-IS	0.6252	fractals_experiment/browns/j9155.jpeg
 250.4500	1.9500	Seq-3-4-ToB-IS	0.6987	tools/colander/097b.jpg
@@ -109,16 +109,16 @@ onset	duration	trial_type	response_time	stim_file
 259.8500	1.9500	Seq-1-3-IS	0.8121	fractals_experiment/pinks/j2031.jpeg
 262.2000	1.9500	Seq-1-4-AnB-IS	0.8222	animals/tiger/whitetiger.jpg
 264.5500	1.9500	NonSeq-AnA	0.5993	animals/horse/horse copy.jpg
-266.9000	1.9500	NonSeq-3	1.3680	fractals_experiment/greens/j6137.jpeg
+266.9000	1.9500	NonSeq-3	1.368	fractals_experiment/greens/j6137.jpeg
 269.2500	1.9500	Seq-2-3-OS	0.6197	fractals_experiment/yellows/j1132.jpeg
 271.6000	1.9500	NonSeq-1	0.6724	fractals_experiment/cyans/j4053.jpeg
-273.9500	1.9500	NonSeq-ToB	1.1460	tools/eggbeater/187b.jpg
-276.3000	1.9500	NonSeq-2	0.5340	fractals_experiment/reds/j3112.jpeg
+273.9500	1.9500	NonSeq-ToB	1.146	tools/eggbeater/187b.jpg
+276.3000	1.9500	NonSeq-2	0.534	fractals_experiment/reds/j3112.jpeg
 278.6500	1.9500	Seq-2-2-OS	1.0437	fractals_experiment/greens/j4115.jpeg
 281.0000	1.9500	NonSeq-5	0.5862	fractals_experiment/purples/j1033.jpeg
-283.3500	1.9500	NonSeq-4	0.6660	fractals_experiment/blues/j7053.jpeg
+283.3500	1.9500	NonSeq-4	0.666	fractals_experiment/blues/j7053.jpeg
 285.7000	1.9500	NonSeq-6	0.6619	fractals_experiment/greys/j7127.jpeg
-288.0500	1.9500	Seq-2-1-OS	0.6860	fractals_experiment/pinks/j7028.jpeg
+288.0500	1.9500	Seq-2-1-OS	0.686	fractals_experiment/pinks/j7028.jpeg
 290.4000	1.9500	Seq-4-1-OS	0.7462	fractals_experiment/purples/j5024.jpeg
 292.7500	1.9500	Seq-1-1-IS	0.6427	fractals_experiment/browns/j9058.jpeg
 295.1000	1.9500	Seq-1-2-IS	1.1369	fractals_experiment/yellows/j5099.jpeg
@@ -139,7 +139,7 @@ onset	duration	trial_type	response_time	stim_file
 330.3500	1.9500	NonSeq-1	0.8221	fractals_experiment/cyans/j4053.jpeg
 332.7000	1.9500	NonSeq-AnB	0.9794	animals/horse/horse.jpg
 335.0500	1.9500	Seq-4-4-ToB-OS	0.6524	tools/wateringcan/042b.jpg
-337.4000	1.9500	NonSeq-6	0.7330	fractals_experiment/greys/j7127.jpeg
+337.4000	1.9500	NonSeq-6	0.733	fractals_experiment/greys/j7127.jpeg
 339.7500	1.9500	NonSeq-ToA	1.4564	tools/eggbeater/187a.jpg
 342.1000	1.9500	NonSeq-4	0.7843	fractals_experiment/blues/j7053.jpeg
-344.4500	1.9500	Seq-4-3-OS		fractals_experiment/greys/j5125.jpeg
+344.4500	1.9500	Seq-4-3-OS	n/a	fractals_experiment/greys/j5125.jpeg
