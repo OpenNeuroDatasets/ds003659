@@ -1,4 +1,4 @@
-Dataset used in the paper: "Long-term learning transforms prefrontal cortex representations during working memory." https://doi.org/10.1016/j.neuron.2022.09.019
+Dataset used in the paper: "Long-term learning transforms prefrontal cortex representations during working memory." https://www.cell.com/neuron/fulltext/S0896-6273(22)00858-3
 
 The Miller et al., Neuron paper analyzes the first 17 sessions of the dataset, during which a fixed stimulus set was used. Beginning with session 18 (sub-001) or session 19 (sub-002, sub-003), new images were introduced into each participant's stimulus set. These data files corresponding to sessions in which new stimuli were introduced are denoted by "SR" (= second round of learning). 
 
