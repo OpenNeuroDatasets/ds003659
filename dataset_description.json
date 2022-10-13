@@ -12,7 +12,7 @@
     "DatasetDOI": "doi:10.18112/openneuro.ds003659.v2.0.0",
     "Funding": "This work was supported by the National Institute of Mental Health (RO1MH63901, F32MH111204, F32MH106280).",
     "Acknowledgements": "We thank Ian Ballard, Chris Gorgolewski, and Regina Lapate for their input on data analysis and Dan Lurie for assistance with data collection.",
-    "EthicsApprovals": "The University of California, Berkeley Committee for the Protection of Human Subjects (CPHS) approved the study protocol.",
+    "EthicsApprovals": ["The University of California, Berkeley Committee for the Protection of Human Subjects (CPHS) approved the study protocol."],
     "HowToAcknowledge": "Miller, J.M, Tambini, A., Kiyonaga, A, D'Esposito, M. Long-term learning transforms prefrontal cortex representations during working memory. Neuron (2022). https://www.cell.com/neuron/fulltext/S0896-6273(22)00858-3"
 
 }
