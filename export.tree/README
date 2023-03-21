@@ -1,7 +1,0 @@
-Dataset used in the paper: "Long-term learning transforms prefrontal cortex representations during working memory." https://www.cell.com/neuron/fulltext/S0896-6273(22)00858-3
-
-The Miller et al., Neuron paper analyzes the first 17 sessions of the dataset, during which a fixed stimulus set was used. Beginning with session 18 (sub-001) or session 19 (sub-002, sub-003), new images were introduced into each participant's stimulus set. These data files corresponding to sessions in which new stimuli were introduced are denoted by "SR" (= second round of learning). 
-
-During the first session, participants were trained to criterion to learn stimulus-response mappings for never before seen stimuli in their stimulus sets (during "learningcriterion" scans). Thereafter, beginning in the second session, participants performed a serial reaction time task during the "learningblock" scans, during which sequence exposure occurred. 
-
-Note: for sub-002, ses-016 and sub-003, ses-013, only 3 runs of the WM task are present (run-001 - run-003), as run-004 were not used in analysiss because of compromised imaging data for these runs 
